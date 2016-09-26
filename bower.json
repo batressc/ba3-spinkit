@@ -1,0 +1,18 @@
+{
+  "name": "ba3-spinkit",
+  "description": "Port a angular 2 de SpinKit",
+  "main": "main.js",
+  "authors": [
+    "Luis Gustavo Fernández Batres <elclon_fernanbrans@hotmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
